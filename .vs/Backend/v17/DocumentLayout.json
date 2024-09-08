@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\luisa\\source\\repos\\Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{89375DDD-6AE6-463E-AF22-E09044A82B16}|Infraestructure\\Infraestructure.csproj|c:\\users\\luisa\\source\\repos\\backend\\infraestructure\\configuration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89375DDD-6AE6-463E-AF22-E09044A82B16}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\configuration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89375DDD-6AE6-463E-AF22-E09044A82B16}|Infraestructure\\Infraestructure.csproj|c:\\users\\luisa\\source\\repos\\backend\\infraestructure\\configuration\\corssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89375DDD-6AE6-463E-AF22-E09044A82B16}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\configuration\\corssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89375DDD-6AE6-463E-AF22-E09044A82B16}|Infraestructure\\Infraestructure.csproj|c:\\users\\luisa\\source\\repos\\backend\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89375DDD-6AE6-463E-AF22-E09044A82B16}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47119B17-F824-468A-8B9A-966F3F28F428}|Domain\\Domain.csproj|c:\\users\\luisa\\source\\repos\\backend\\domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47119B17-F824-468A-8B9A-966F3F28F428}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|c:\\users\\luisa\\source\\repos\\backend\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{69F96A49-B55F-477A-A72E-A835351DEF30}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89375DDD-6AE6-463E-AF22-E09044A82B16}|Infraestructure\\Infraestructure.csproj|c:\\users\\luisa\\source\\repos\\backend\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{89375DDD-6AE6-463E-AF22-E09044A82B16}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +38,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 689,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CORSSettings.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Backend\\Infraestructure\\Configuration\\CORSSettings.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Configuration\\CORSSettings.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Backend\\Infraestructure\\Configuration\\CORSSettings.cs",
+              "RelativeToolTip": "Infraestructure\\Configuration\\CORSSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:36:48.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Backend\\Infraestructure\\Configuration\\appsettings.json",
+              "RelativeDocumentMoniker": "Infraestructure\\Configuration\\appsettings.json",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\Backend\\Infraestructure\\Configuration\\appsettings.json",
+              "RelativeToolTip": "Infraestructure\\Configuration\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-07T23:11:02.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Backend\\Domain\\Entities\\Post.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Post.cs",
@@ -51,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Backend\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
@@ -59,11 +97,12 @@
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-04T15:47:10.646Z"
+              "WhenOpened": "2024-09-04T15:47:10.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Application.csproj",
               "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Backend\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "Application\\Application.csproj",
@@ -71,23 +110,25 @@
               "RelativeToolTip": "Application\\Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-04T15:45:15.799Z"
+              "WhenOpened": "2024-09-04T15:45:15.799Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Infraestructure.csproj",
               "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Backend\\Infraestructure\\Infraestructure.csproj",
               "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
               "ToolTip": "C:\\Users\\luisa\\source\\repos\\Backend\\Infraestructure\\Infraestructure.csproj",
               "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-04T15:43:22.456Z"
+              "WhenOpened": "2024-09-04T15:43:22.456Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Backend.csproj",
               "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\Backend\\Backend\\Backend.csproj",
               "RelativeDocumentMoniker": "Backend\\Backend.csproj",
@@ -95,7 +136,8 @@
               "RelativeToolTip": "Backend\\Backend.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-04T15:29:15.265Z"
+              "WhenOpened": "2024-09-04T15:29:15.265Z",
+              "EditorCaption": ""
             }
           ]
         },
