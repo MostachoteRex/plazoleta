@@ -58,8 +58,7 @@
               "RelativeToolTip": "Infraestructure\\Configuration\\CORSSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T23:36:48.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T23:36:48.656Z"
             },
             {
               "$type": "Document",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "Infraestructure\\Configuration\\appsettings.json",
               "ToolTip": "C:\\Users\\luisa\\source\\repos\\Backend\\Infraestructure\\Configuration\\appsettings.json",
               "RelativeToolTip": "Infraestructure\\Configuration\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-07T23:11:02.828Z",
               "EditorCaption": ""
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Domain\\Entities\\Post.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T15:52:13.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T15:52:13.256Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-04T15:47:10.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T15:47:10.646Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "Application\\Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-04T15:45:15.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T15:45:15.799Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-04T15:43:22.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T15:43:22.456Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "Backend\\Backend.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-04T15:29:15.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T15:29:15.265Z"
             }
           ]
         },
